@@ -1,0 +1,6 @@
+average characters per word:  4
+wordcount is 278
+56 words have the of length 2
+56 words have the of length 3
+56 words have the of length 4
+3 words have the of length 11 or longer
