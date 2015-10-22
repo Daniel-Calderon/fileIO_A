@@ -1,4 +1,4 @@
-// Name:Daniel Calderon
+// Name: Daniel Calderon
 // Date: October 20, 2015
 // Read from file
 #include<iostream>
